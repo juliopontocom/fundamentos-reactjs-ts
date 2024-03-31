@@ -15,9 +15,9 @@ const posts: PostType[] = [
         role: 'Suport at SAP'
     },
     content: [
-        { type:'paragraph',  content:'Eae gurizada!'},
-        { type:'paragraph',  content:'nao queria falar nada'},
-        { type:'paragraph',  content:'mas to TOCANDO a SAP'},
+        { type:'paragraph',  content:'Eae pessoal'},
+        { type:'paragraph',  content:'estou adorando trabalhar na SAP'},
+        { type:'paragraph',  content:'em breve serei efetivado!'},
         { type:'link',  content:'#projetoreact'}
     ],
     publishedAt: new Date('2024-03-27 9:30:22')
@@ -31,7 +31,8 @@ const posts: PostType[] = [
     },
     content: [
         { type:'paragraph',  content:'Eaee'},
-        { type:'paragraph',  content:'arranca o teto da dell que eu vou chegar voando!'},
+        { type:'paragraph',  content:'que plataforma legal'},
+        { type:'paragraph',  content:'vou usar bastante'},
         { type:'link',  content:'#projetoreact'}
     ],
     publishedAt: new Date('2024-03-27 9:06:32')
