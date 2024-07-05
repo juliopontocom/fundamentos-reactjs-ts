@@ -20,7 +20,7 @@ const posts: PostType[] = [
         { type:'paragraph',  content:'em breve serei efetivado!'},
         { type:'link',  content:'#projetoreact'}
     ],
-    publishedAt: new Date('2024-03-27 9:30:22')
+    publishedAt: new Date('2024-07-01 9:30:22')
   },
   {
     id: 1,
@@ -35,7 +35,7 @@ const posts: PostType[] = [
         { type:'paragraph',  content:'vou usar bastante'},
         { type:'link',  content:'#projetoreact'}
     ],
-    publishedAt: new Date('2024-03-27 9:06:32')
+    publishedAt: new Date('2024-06-27 9:06:32')
 },
 ];
 
